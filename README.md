@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Yo Soy Jhoan Beru</h1>
 <h3 align="center">Dessarrollador Web FullStack</h3>
 
-- 💬 Ask me about **Javascript, React Js**
+- 💬 preguntar por **Javascript, React Js**
 
-- 📫 How to reach me **nicolasberu27@gmail.com**
+- 📫 cómo contactar conmigo **nicolasberu27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jhoan nicolas beru alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoan nicolas beru alvarez" height="30" width="40" /></a>
 </p>
