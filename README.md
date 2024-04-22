@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo Soy Jhoan Beru</h1>
 <h3 align="center">Dessarrollador Web FullStack</h3>
 
-- 💬 preguntar por **Javascript, React Js**
+- 💬 preguntar por **Javascript, React Js, NextJs, Bases de datos relacionales/no relacionales, NodeJs**
 
 - 📫 cómo contactar conmigo **nicolasberu27@gmail.com**
 
