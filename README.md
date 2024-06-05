@@ -4,6 +4,7 @@
 - 💬 preguntar por **Frameworks y librerias Javascript, Bases de datos relacionales/no relacionales y Diseño web**
 
 - 📫 cómo contactar conmigo **nicolasberu27@gmail.com**
+- Podras conocer sobre mi trabajo y proyectos en mi portafolio web, <a href="https://portfolio-jackira01s-projects.vercel.app/" target="_blank"> **Click Aqui**</a>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
