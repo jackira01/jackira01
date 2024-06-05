@@ -1,3 +1,9 @@
+<p align="center" width="300" dir="auto">
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png">
+     <img align="middle" width="200" src="https://github.com/jackira01/jackira01/assets/96591137/8668376f-13a2-45cf-9292-9706f2af21bf" style="max-width: 100%;">
+   </a>
+</p>
+   
 <h1 align="center">Hola 👋, Yo Soy Jhoan Beru</h1>
 <h3 align="center">Dessarrollador de Software</h3>
 
