@@ -1,21 +1,77 @@
-<p align="center" width="300" dir="auto">
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png">
-     <img align="middle" width="200" src="https://github.com/jackira01/jackira01/assets/96591137/8668376f-13a2-45cf-9292-9706f2af21bf" style="max-width: 100%;">
-   </a>
+<p align="center">
+  <img width="200" src="https://res.cloudinary.com/dqojdssac/image/upload/v1770764435/Gemini_Generated_Image_tx6fpltx6fpltx6f_zbvliq.png" alt="Jhoan Beru">
 </p>
-   
-<h1 align="center">Hola 👋, Yo Soy Jhoan Beru</h1>
-<h3 align="center">Dessarrollador de Software</h3>
 
-- 💬 preguntar por **Frameworks y librerias Javascript, Bases de datos relacionales/no relacionales y Diseño web**
+<h1 align="center">Hola 👋, Soy Jhoan Nicolas Beru</h1>
+<p align="center">
+  <strong>Full-stack Developer | Automation Specialist | AI-Augmented Developer</strong><br>
+  Basado en Ibagué, Colombia
+</p>
 
-- 📫 cómo contactar conmigo **nicolasberu27@gmail.com**
-- Podras conocer sobre mi trabajo y proyectos en mi **portafolio web**, <a href="https://portfolio-jackira01s-projects.vercel.app/" target="_blank"> **Click Aqui**</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhoan-nicolas-beru-alvarez-a30a61210" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tecnologiacol03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.tecnologiacol.lat" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-<h3 align="left">Conecta conmigo:</h3>
+---
+
+### 🚀 Sobre Mí
+
+Soy un desarrollador enfocado en construir soluciones web robustas y escalables utilizando arquitecturas modernas. Mi enfoque combina el desarrollo full-stack con la **automatización de procesos** para maximizar la eficiencia operativa.
+
+- ⚡ **Experiencia Clave:** He desarrollado plataformas con Next.js y Node.js, logrando mejoras del 10% en latencia y ahorros en infraestructura.
+- 🤖 **Automatización:** Implemento flujos de trabajo con **n8n** e integración de IA para optimizar tareas empresariales.
+- 🎓 **Formación:** Graduado con +900 horas de formación intensiva teórico-práctica.
+- 🛠️ **Workflow:** Prefiero entornos modernos como **Bun** y **pnpm** para una ejecución ágil de proyectos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Frontend & UI/UX**
 <p align="left">
-<a href="https://linkedin.com/in/jhoan nicolas beru alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoan nicolas beru alvarez" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue3">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun">
+</p>
+
+#### **Automation & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+---
+
+### 📈 Impacto y Proyectos
+* **Plataforma de Servicios:** Desarrollo de arquitectura escalable con gestión de usuarios, facturación y SEO optimizado.
+* **Fisiom Fulness:** Implementación de sistema de agendamiento con consumo de APIs que redujo costos informáticos en $100 USD mensuales.
+* **Automatización de Ventas:** Configuración de modelos de comisión y prospección automatizada para agencias.
+
+---
+
+### 💬 Hablemos de...
+- Desarrollo de **SaaS** y productos mínimos viables (MVP).
+- Optimización de rendimiento web y **SEO**.
+- Integración de **Inteligencia Artificial** en flujos de trabajo.
